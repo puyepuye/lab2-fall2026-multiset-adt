@@ -11,7 +11,7 @@ The goals of this activity are to:
   to a software project before it is accepted into the main branch
 - give you a first experience of coding in a collaborative environment
 - experiment with how to most effectively divide up coding tasks
-
+- addd somethinggg
 # The Task
 
 In the previous activity, you practised creating branches and making pull requests. Now, you'll
