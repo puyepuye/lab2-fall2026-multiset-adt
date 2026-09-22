@@ -1,5 +1,5 @@
 # Lab 2: Second Activity: Translating Python code to Java code
-
+-- ive fixed the bug
 The second lab activity this week will have your team practice using GitHub Issues
 to divide up coding tasks and PRs to contribute code. The code itself should feel quite familiar,
 as we will be translating Python code that implements some common data structures to implement the
